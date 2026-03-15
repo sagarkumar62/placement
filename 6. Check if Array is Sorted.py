@@ -8,3 +8,5 @@ def is_sorted(arr):
 input_array = [1, 2, 3, 4, 5]
 is_sorted_array = is_sorted(input_array)
 print(f"Is array sorted: {is_sorted_array}")
+
+
